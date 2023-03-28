@@ -1,14 +1,10 @@
 # Incident Response Plan Template
 
-## About
-
-This template was developed by the team at [Counteractive Security](https://www.counteractive.net), to help all organizations get a good start on a concise, directive, specific, flexible, and free incident response plan.  Build a [plan you will actually use](https://www.counteractive.net/posts/an-ir-plan-you-will-use/) to respond effectively, minimize cost and impact, and get back to business as soon as possible.
-
-Download the latest release [here](https://github.com/counteractive/incident-response-plan-template/releases/latest), a please create an issue or submit a pull request with any feedback, suggestions, or updates.
-
 ## Instructions
 
 **💡 If you prefer to work in Microsoft Word (.docx format), please download the [example word version](examples/plan.docx) and customize directly using the [instructions below](#customize).** 
+
+Download the latest release [here](https://github.com/counteractive/incident-response-plan-template/releases/latest), and please create an issue or submit a pull request with any feedback, suggestions, or updates.
 
 For those working in other formats like markdown, html, or pdf, please read on.
 
@@ -71,7 +67,7 @@ Examples in each format are available in [the examples directory](./examples).  
 
 ### Contact Us
 
-For professional assistance with incident response, or with customizing, implementing, or testing your plan, please contact us at contact@counteractive.net or [(888) 925-5765](tel:+18889255765).
+For professional assistance with incident response, or with customizing, implementing, or testing your plan (or for exceptional cyber insurance), please visit https://www.coalitioninc.com.
 
 ## License
 
@@ -110,8 +106,8 @@ This template is provided under the Apache License, version 2.0.  See the [LICEN
 
 ## Roadmap
 
-See [issues](https://github.com/counteractive/incident-response-plan-template/issues) list.
+See [issues](https://github.com/coalition-ir/incident-response-plan-template/issues) list.
 
 ## Changelog
 
-See [releases](https://github.com/counteractive/incident-response-plan-template/releases) page.
+See [releases](https://github.com/coalition-ir/incident-response-plan-template/releases) page.
